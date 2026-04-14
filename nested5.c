@@ -13,16 +13,16 @@ void main(){
 	scanf("%d",&e);
 	if(a>=b){
 		if(a>=c){
-			printf("the maximum value is %d",a);
+//			printf("the maximum value is %d",a);
 			if(a>=d){
-				printf("the maximum value is %d",a);
+//				printf("the maximum value is %d",a);
 				if(a>=e){
 					printf("the maximum value is %d",a);
 				}else{
 					printf("the maximum value is %d",e);
 				}
 			}else{
-				printf("the maximum value is %d",d);
+//				printf("the maximum value is %d",d);
 				if(d>=e){
 					printf("the maximum value is %d",d);
 				}else{
@@ -37,7 +37,7 @@ void main(){
 					printf("the maximum value is %d",e);
 				}
 			}else{
-				printf("the maximum value is %d",d);
+//				printf("the maximum value is %d",d);
 				if(d>=e){
 					printf("the maximum value is %d",d);
 				}else{
@@ -48,16 +48,16 @@ void main(){
 		
 	}else{
 		if(b>=c){
-			printf("the maximum value is %d",b);
+//			printf("the maximum value is %d",b);
 			if(b>=d){
-				printf("the maximum value is %d",b);
+//				printf("the maximum value is %d",b);
 				if(b>=e){
 					printf("the maximum value is %d",b);
 				}else{
 					printf("the maximum value is %d",e);
 				}
 			}else{
-				printf("the maximum value is %d",d);
+//				printf("the maximum value is %d",d);
 				if(d>=e){
 					printf("the maximum value is %d",d);
 				}else{
@@ -72,7 +72,7 @@ void main(){
 					printf("the maximum value is %d",e);
 				}
 			}else{
-				printf("the maximum value is %d",d);
+//				printf("the maximum value is %d",d);
 				if(d>=e){
 					printf("the maximum value is %d",d);
 				}else{
